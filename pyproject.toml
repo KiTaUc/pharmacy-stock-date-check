@@ -1,0 +1,5 @@
+[project]
+name = "pharmacy-stock-date-check"
+version = "0.1.0"
+description = "Локальный инструмент: Pharmacy Stock Date Check"
+requires-python = ">=3.10"
